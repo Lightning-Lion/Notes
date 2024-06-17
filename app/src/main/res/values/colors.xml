@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#7F7F85</color>
+    <color name="text_accent">#E4AF0A</color>
+
+    <color name="background_default">#F2F2F7</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="background_ripple">#D1D1D6</color>
+    <color name="background_toolbar">#F3F3F8</color>
+</resources>

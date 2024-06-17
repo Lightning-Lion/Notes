@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="search_input">搜索</string>
+    <string name="search_filter_title">标题</string>
+    <string name="search_filter_content">内容</string>
+    <string name="search_filter_location">地点</string>
+    <string name="search_filter_date">日期</string>
+
+    <string name="folder_list_title">分类</string>
+
+    <string name="note_list_count">%1$s 篇笔记</string>
+
+    <string name="note_panel_map_add">添加位置信息</string>
+    <string name="note_panel_map_change">修改</string>
+    <string name="note_panel_move">修改笔记分类</string>
+    <string name="note_panel_delete">删除笔记</string>
+
+    <string name="login_username">用户名</string>
+    <string name="login_password">密码</string>
+    <string name="login_submit">登录 / 注册</string>
+    <string name="login_failed">用户名或密码错误</string>
+
+    <string name="dialog_folder_new">创建新分类</string>
+    <string name="dialog_folder_new_hint">输入新分类名</string>
+    <string name="dialog_folder_rename">修改分类名</string>
+    <string name="dialog_folder_rename_hint">输入新分类名</string>
+    <string name="dialog_location_change">修改位置</string>
+    <string name="dialog_location_change_hint">输入新位置</string>
+    <string name="dialog_folder_select">移动到分类</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_confirm">确认</string>
+</resources>
